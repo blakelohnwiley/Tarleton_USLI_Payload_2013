@@ -1,1 +1,11 @@
-This code was used by the Tarleton USLI SMD Payload. The main code was run on an Arduino Mega 2560. The leveling code and the camera code was used on Arduino Mini. 
+Look at the documentation on http://tarleton.edu/usli/ for hardware information.
+
+
+
+Main Contributors:
+    John Phillips
+    Billy Fournier
+    Blake Lohn-Wiley
+    Cletus Fuhurmen
+    
+    Some of the code was also taken from open source libraries
