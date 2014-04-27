@@ -9,6 +9,7 @@ Main Contributors:
 - Blake Lohn-Wiley
 - Bert Hess
 - Jake Rhodes
+- Ethan Moore
 - Cletus Fuhurmen
 - Various open source libraries
 - Others who I probably forgot to mention
